@@ -14,6 +14,12 @@ It can be used to relay IPTV streams from a given server to end users, while cus
 - ✅ Prevents direct client IP leakage to the origin server.
 - ✅ Works with most Xtream Codes-based IPTV servers.
 
+✨ Credits
+
+Script developed by @tg_aadi
+
+IPTV proxy logic for Xtream Codes-based servers
+
 ---
 
 ## ⚙ Configuration
