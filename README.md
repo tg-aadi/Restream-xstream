@@ -20,7 +20,8 @@ It can be used to relay IPTV streams from a given server to end users, while cus
 
 ## ✨ Credits
 
-Script developed by @tg_aadi(https://t.me/tg_aadi)
+Script developed by "[@tg_aadi](https://t.me/tg_aadi)"
+ https://chatgpt.com/#:~:text=%5B%40tg_aadi%5D(https%3A//t.me/tg_aadi)
 
 IPTV proxy logic for Xtream Codes-based servers
 
