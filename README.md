@@ -13,8 +13,12 @@ It can be used to relay IPTV streams from a given server to end users, while cus
 - ✅ Redirect handling for streams that move to another host.
 - ✅ Prevents direct client IP leakage to the origin server.
 - ✅ Works with most Xtream Codes-based IPTV servers.
+- ✅ For `.ts` Access like this 'http://your-domain/stream.php/$id.ts
+- ✅ For `.m3u8` Access like this 'http://your-domain/stream.php/$id.m3u8
+ 
+---
 
-✨ Credits
+## ✨ Credits
 
 Script developed by @tg_aadi
 
